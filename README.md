@@ -1,8 +1,8 @@
-Hello, Prakhar Here
-Student
-Curious guy,CS enthusiast
-My focus is on neural network architecture
-Amateur python and cpp dev
+-Hello, Prakhar Here
+-Student
+-Curious guy,CS enthusiast
+-My focus is on neural network architecture
+-Amateur python and cpp dev
 
 <!---
 PSquare3027/PSquare3027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
